@@ -2,4 +2,5 @@
 	"ip":"BlueCityKH123.aternos.me",
 	"port": "14305",
 	"name": "afkbot"
+	"auto-night-skip":"true"
 }
